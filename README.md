@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://datacycle.solutions/wp-content/uploads/2020/07/software_development-blog-banner.png)](https://franc15.github.io/portfolio)-->
 <h1 align="center">Hi 👋, I'm Francis Kikulwe</h1>
-<h3 align="center">A passionate Javascript and Python developer from Tanzania</h3>
+<h3 align="center">A passionate Java and React developer from Tanzania</h3>
 <img align="right" width="400" alt="coding" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"/>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=franc15&label=Profile%20views&color=0e75b6&style=flat" alt="franc15" /> </p>-->
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [contributing to Jarvis personal assistant](https://github.com/sukeesh/Jarvis)
 
-- 🌱 I’m currently learning **Redux and DevOps**
+- 🌱 I’m currently learning **Spring Framework and Redux**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 🤝 I’m looking for help with **React modern practices**
+- 🤝 I’m looking for help with **Software Design and Architecture**
 
-- 💬 Ask me about **react, flask and java**
+- 💬 Ask me about **Java, React and Python Flask**
 
 - 📫 How to reach me **f.kikulwe@alustudent.com**
 
