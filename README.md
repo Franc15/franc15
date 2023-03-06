@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [contributing to Jarvis personal assistant](https://github.com/sukeesh/Jarvis)
 
-- 🌱 I’m currently learning **Spring Framework and Redux**
+- 🌱 I’m currently learning **Hibernate and Redux**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 🤝 I’m looking for help with **Software Design and Architecture**
 
-- 💬 Ask me about **Java, React and Python Flask**
+- 💬 Ask me about **Java, React and Python**
 
 - 📫 How to reach me **f.kikulwe@alustudent.com**
 
